@@ -1,0 +1,5 @@
+*.o
+app
+
+# Mac
+.DS_Store
